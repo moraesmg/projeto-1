@@ -39,19 +39,19 @@
         <main>
             <article>
                 <img src="pato-bonito-em-branco_1308-41058.avif"> </img>
-            </div>
+                </div>
                 <p class-"artigo-autor">Moraes
                 <p>Os alunos no 1 A são ...</p>
                 <button>🥰<span>0</span></button>
                 <button>😶‍🌫️<span>0</span></button
-            </div>
+         </div>
             </article>
-            <article>
-                 <img src=""> </img>
+            <article>  
+            <img src=""> </img>
                  <p class-"artigo-autor">Moraes
                  <p>Os alunos no 1 A são ...</p>
                  <button>🥰<span>0</span></button>
                  <button>😶‍🌫️<span>0</span></button
         </main>
     </body>
-</html>
+</html> 
