@@ -43,8 +43,15 @@
                 <p class-"artigo-autor">Moraes
                 <p>Os alunos no 1 A são ...</p>
                 <button>🥰<span>0</span></button>
-                <button>😶‍🌫️<
+                <button>😶‍🌫️<span>0</span></button
+            </div>
             </article>
+            <article>
+                 <img src=""> </img>
+                 <p class-"artigo-autor">Moraes
+                 <p>Os alunos no 1 A são ...</p>
+                 <button>🥰<span>0</span></button>
+                 <button>😶‍🌫️<span>0</span></button
         </main>
     </body>
 </html>
