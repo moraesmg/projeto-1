@@ -40,18 +40,21 @@
             <article>
                 <img src="pato-bonito-em-branco_1308-41058.avif"> </img>
                 </div>
-                <p class-"artigo-autor">Moraes
+                <h2> Meu primeiro post</h2>
+                <p class="artigo-autor"> Moraes</p>
                 <p>Os alunos no 1 A são ...</p>
                 <button>🥰<span>0</span></button>
-                <button>😶‍🌫️<span>0</span></button
+                <button>😶‍🌫️<span>0</span></button>
          </div>
             </article>
             <article>  
             <img src=""> </img>
-                 <p class-"artigo-autor">Moraes
-                 <p>Os alunos no 1 A são ...</p>
+               <h2> Segundo post </h2>
+                 <p class="artigo-autor">Moraes
+                <p> A Moraes é chata </p>
                  <button>🥰<span>0</span></button>
-                 <button>😶‍🌫️<span>0</span></button
+                 <button>😶‍🌫️<span>0</span></button>
+               </article>  
         </main>
     </body>
 </html> 
